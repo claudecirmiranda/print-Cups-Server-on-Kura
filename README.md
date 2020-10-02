@@ -141,8 +141,8 @@ O componente Cups Printer, retorna o seguinte wire record:
 
 O documento teve a sua impressão realizada com sucesso, pelo fluxo do Kura.
 
-
 <h2>ANEXOS<h2>
+	
 <h3>¹ Comutação de pacotes store-and-forward</h3>
 
 [![Store-and-forward](http://soaone.com.br/kura/comutacaodepacote.jpg "Store-and-forward")](http://soaone.com.br/kura/comutacaodepacote.jpg "Store-and-forward")
